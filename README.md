@@ -14,5 +14,5 @@
 2. [SLM Lab | Software framework for reproducible reinforcement learning research (Apple Silicon is not supported)](https://github.com/kengz/SLM-Lab)
 3. [RL for cybersecurity](https://github.com/Limmen/awesome-rl-for-cybersecurity)
 
-# Prompt engineering and RAG
-1. [AI and RAG repositories](https://github.com/khshanovskyi?tab=repositories)
+# Prompt engineering
+1. [Promt engineering and RAG workshops](https://wearecommunity.io/collections/bXHrMjwimS)
